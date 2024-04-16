@@ -1,0 +1,4 @@
+- temps superlineaire: 
++ quand on utilise la memoire
+- communication entre processeurs reduites
+- communication entre RAM et cache.
